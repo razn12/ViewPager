@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.9"
+        />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight="0.1"
+       android:orientation="horizontal"
+       android:background="#33CCCC">
+
+
+       <ImageView
+           android:layout_width="0dp"
+           android:layout_weight="0.2"
+           android:layout_height="match_parent"
+           android:src="@drawable/music" />
+       <TextView
+           android:layout_width="0dp"
+           android:layout_weight="0.8"
+           android:layout_margin="12dp"
+           android:layout_height="match_parent"
+           android:text="Select song from the list"
+           android:textSize="15dp"
+
+           android:textColor="#FFFFFF"/>
+   </LinearLayout>
+
+</LinearLayout>

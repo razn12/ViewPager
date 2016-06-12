@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\player.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\player.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stop.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\audiofile.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\audiofile.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\reverse.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\reverse.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\forward.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\music.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\drawable-mdpi\\music.png"
+    }
+]

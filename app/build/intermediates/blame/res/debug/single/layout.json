@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag2.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\layout\\frag2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index2.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\layout\\index2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_mediaplayer.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\layout\\activity_home_mediaplayer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index1.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\layout\\index1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag1.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\ViewPager\\app\\src\\main\\res\\layout\\frag1.xml"
+    }
+]
